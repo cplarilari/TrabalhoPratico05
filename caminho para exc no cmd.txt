@@ -1,0 +1,3 @@
+C:\Users => inserção do caminho \Desktop\Lari Atividades\trabalho pratico 05\Trabalho prático número 05>meu_programa.exe // para rodar no cmd do Computador
+
+.\meu_programa.exe // para rodar no visual studio code terminal copiando toda a pasta para a IDE
